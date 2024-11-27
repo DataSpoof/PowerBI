@@ -1,0 +1,7 @@
+CustomerName,SellerID,ProductName,ProductID,PurchasingDate,Price
+xyz,abc001,Gen Monitor,005xxp,2024-04-02,8999
+xyz,abc001,Gen Keyboard,000xyp,2024-04-02,1149
+ptr,abc011,Gen Keyboard,000xyp,2024-05-11,1149
+ptr,abc011,Gen Monitor,005xxp,2024-05-11,8999
+lup,abc011,Gen Keyboard,000xyp,2024-05-13,1149
+kin,abc011,Gen Keyboard,000xyp,2024-05-27,1149
