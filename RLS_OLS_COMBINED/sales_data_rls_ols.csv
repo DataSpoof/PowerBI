@@ -1,0 +1,99 @@
+SalesID,Date,Country,Region,Salesperson,Product,Category,Quantity,UnitPrice,TotalSales,Discount,NetSales,ProfitMargin,Cost,Profit,Salary,Bonus,Access
+e3e70682-c209-4cac-a29f-6fbed82c07cd,12-06-2024,Germany,Hesse,Vincent Tucker,Tablet,Electronics,66,245.53,16204.98,0.28,11667.59,25.1,8738.51,2929.08,97746,4222.44,manager@germany.co
+4da5e709-d471-4d60-88a7-0639eb1167b3,04-07-2024,Canada,Quebec,Steven Robinson,Jeans,Clothing,97,51.94,5038.18,0.24,3829.02,20.38,3048.58,780.44,67279.45,7346.55,manager@canada.co
+c17c6279-23c6-412f-8826-867323a7711a,06-02-2024,Australia,Victoria,Danielle Browning,T-shirt,Clothing,94,41.5,3901,0.26,2886.74,40.09,1729.33,1157.41,69186.96,4184.12,manager@australia.co
+9a164106-cf6a-459e-b486-2b21fb97d435,27-02-2024,UK,Scotland,Nicholas Nolan,Comics,Books,57,433.33,24699.81,0.08,22723.83,25.85,16849.91,5873.92,68408.95,1126.38,manager@uk.co
+8f4ff31e-78de-4857-9487-ce1eaf19922a,09-02-2024,Germany,Bavaria,Eugene Bowman,Comics,Books,43,125.74,5406.82,0.1,4866.14,23.89,3703.82,1162.32,43374.7,6107.6,manager@germany.co
+7a1d5006-8d72-4104-b773-83c13458a748,20-06-2024,Canada,Quebec,Debbie Trujillo,Comics,Books,12,44.82,537.84,0.1,484.06,34.76,315.79,168.27,95298.37,1981.52,manager@canada.co
+17e0aa3c-0398-4ca8-aa7e-9d498c778ea6,03-06-2024,Australia,Queensland,Rachel Garrett,Tablet,Electronics,70,105.58,7390.6,0.24,5616.86,33.58,3730.54,1886.32,50136.01,1824.69,manager@australia.co
+de1b372a-d3fb-447a-be5b-1e7f9ca5499d,09-05-2024,Germany,Baden-Württemberg,Frederick Harrell,Textbook,Books,38,96.02,3648.76,0.25,2736.57,49.01,1395.35,1341.22,98690.98,3340.51,manager@germany.co
+38c1962e-9148-424f-aac1-c14f30e9c5cc,02-04-2024,USA,Northeast,Brenda Daniels,Table,Furniture,5,422.02,2110.1,0.27,1540.37,22.31,1196.75,343.62,67841.99,4521.66,manager@usa.co
+51ef1922-fe43-449e-9498-18d11759edc3,16-07-2024,Australia,Queensland,Mrs. Elizabeth Carter MD,Textbook,Books,28,448.04,12545.12,0.18,10287,21.51,8074.57,2212.43,70578.65,5055.07,manager@australia.co
+8a5006c1-ec18-4efb-9080-e66e552f233a,19-03-2024,UK,England,Lindsey Matthews,T-shirt,Clothing,63,295.6,18622.8,0.1,16760.52,44.29,9337.51,7423.01,31134.63,3439.34,manager@uk.co
+cc457821-98a6-416d-9775-336d71eacd05,29-05-2024,Canada,British Columbia,David White,Desk,Furniture,55,408.88,22488.4,0.03,21813.75,45.61,11864.66,9949.09,78836.94,1407.11,manager@canada.co
+9cdeb3e6-0870-415c-afcd-81b5d24bace4,10-04-2024,Australia,New South Wales,Brandon Todd,Smartphone,Electronics,82,98.32,8062.24,0.25,6046.68,46.41,3240.47,2806.21,36407.23,8504.6,manager@australia.co
+09e469e6-ec62-42c8-a648-ee38e07405eb,01-02-2024,USA,Northeast,Tammy Fernandez,Novel,Books,25,480.71,12017.75,0.06,11296.68,46.28,6068.22,5228.46,44740.36,8206.72,manager@usa.co
+864a7a50-b48d-43f1-967e-55fd642bfa42,17-04-2024,USA,West,Cynthia Lewis,Novel,Books,34,39.65,1348.1,0.02,1321.14,40.97,779.89,541.25,60524.81,1549.38,manager@usa.co
+f323ca74-d344-4490-96fd-35d0adf20806,11-06-2024,Germany,Bavaria,Joanne Keller,Novel,Books,90,494.18,44476.2,0.06,41807.63,39.24,25400.92,16406.71,81211.88,8544.94,manager@germany.co
+fb82860d-eabc-48d0-b341-facdff0ac0f1,18-05-2024,Australia,Victoria,Louis Tucker,Chair,Furniture,87,83.31,7247.97,0.05,6885.57,34.12,4536.5,2349.07,38204.9,9292.77,manager@australia.co
+30bcab0e-d857-4102-95d4-4936a1515607,04-04-2024,Canada,Ontario,Devin Thornton,Butter,Food,73,438.03,31976.19,0.28,23022.86,30.53,15993.52,7029.34,57204.96,6918.55,manager@canada.co
+552116dd-2ba4-4180-8b69-ca385f3f5638,14-06-2024,Canada,Ontario,Ashlee Thomas,Bread,Food,43,370.81,15944.83,0.16,13393.66,45.95,7238.62,6155.04,83351.67,5336.44,manager@canada.co
+d12ecbc4-0b94-45b1-b801-8b47b29a8b06,10-08-2024,Australia,Queensland,Taylor Guzman,Jeans,Clothing,92,158.6,14591.2,0.22,11381.14,25.13,8520.73,2860.41,35650.62,6351.19,manager@australia.co
+a28f5ab0-1fdb-4b32-86d5-99e812f175ff,14-03-2024,UK,Scotland,Laura Myers,Table,Furniture,82,226.83,18600.06,0.21,14694.05,29.79,10317.17,4376.88,91217.64,1283.91,manager@uk.co
+1db53334-fb03-43a1-9576-d4155ec17dbe,15-01-2024,Australia,Western Australia,Chloe Arellano,Laptop,Electronics,58,36.62,2123.96,0.21,1677.93,36.61,1063.66,614.27,91946.19,9172.36,manager@australia.co
+35e8579a-7aaf-4e89-9fb7-97fab7d6467b,24-01-2024,Australia,New South Wales,Allison Coleman,Headphones,Electronics,42,159.47,6697.74,0.14,5760.06,25.73,4278.08,1481.98,91251.14,8311.73,manager@australia.co
+11ebcd49-428a-4c22-95fd-b76a19fbeb1d,26-03-2024,Canada,Ontario,Eric Graham,Chair,Furniture,52,475.03,24701.56,0.13,21490.36,49.9,10767.05,10723.31,31000.39,7792.78,manager@canada.co
+0a14b90a-7795-4986-80ee-526e0fa07a3f,09-02-2024,Australia,New South Wales,Jeanne Green,Chair,Furniture,78,326.39,25458.42,0.26,18839.23,41.6,11002.01,7837.22,98496.06,1901.63,manager@australia.co
+d69c91c2-7860-4602-bb4a-06cbe786ab37,09-08-2024,Germany,Bavaria,Michael Levy,Tablet,Electronics,58,400.91,23252.78,0.03,22555.2,42.31,13013.15,9542.05,75749.69,8355.46,manager@germany.co
+28805c5d-ad1b-4f60-89e4-dab20edc6d2b,03-03-2024,UK,England,David Carlson,Desk,Furniture,3,25.94,77.82,0.06,73.15,42.21,42.27,30.88,52029.93,4302.04,manager@uk.co
+0361524c-2cc0-4859-aa65-24ab713b7e05,02-07-2024,Australia,New South Wales,Stephanie Golden,Comics,Books,92,323.85,29794.2,0.14,25623.01,36.94,16158.69,9464.32,90998.75,2604.59,manager@australia.co
+5b6e4ae7-a620-4143-8fba-ecc0eae2025e,30-05-2024,Germany,Baden-Württemberg,Danielle Castro,Laptop,Electronics,20,139.33,2786.6,0.1,2507.94,38.98,1530.25,977.69,36559.53,8014.75,manager@germany.co
+143e2e04-bdd7-419b-b53c-7c99032f06ca,10-05-2024,USA,Northeast,Kimberly Taylor,Jeans,Clothing,20,491.05,9821,0.09,8937.11,38.16,5527.04,3410.07,68393.9,3640.66,manager@usa.co
+5a2b745b-7b59-451b-b400-48d7c31d5a97,21-04-2024,Germany,North Rhine-Westphalia,Leslie Mcclain,Tablet,Electronics,23,429.23,9872.29,0.22,7700.39,40.92,4549.4,3150.99,88489.18,3693.03,manager@germany.co
+b732d46f-21e1-4094-9efe-e464da90f534,30-04-2024,USA,Northeast,Jason Curtis,Comics,Books,61,171.85,10482.85,0.24,7966.97,25.63,5925.02,2041.95,38702.74,2044.07,manager@usa.co
+b2d650af-313b-42b7-9836-31890063e42f,09-05-2024,Germany,Hesse,Daniel West,Tablet,Electronics,43,368.7,15854.1,0.27,11573.49,22.41,8979.95,2593.54,73871.94,4380.14,manager@germany.co
+91725f0a-ac7c-4803-a01b-bf50b5d97ef7,09-06-2024,USA,Northeast,Shane Bradley,Laptop,Electronics,96,114.42,10984.32,0.12,9666.2,47.06,5117.51,4548.69,68953.22,3608.39,manager@usa.co
+0bf9c0ef-b581-4b74-a985-ab61c5adf681,05-03-2024,Germany,North Rhine-Westphalia,David Moore,Bread,Food,48,113.97,5470.56,0.3,3829.39,32.44,2587.01,1242.38,41660.68,2727.51,manager@germany.co
+e8754cd3-7cbd-4025-a28b-c9ff870f084c,06-08-2024,USA,Northeast,April Williams,Headphones,Electronics,97,340.08,32987.76,0.04,31668.25,38.06,19614.87,12053.38,44506.24,1378.91,manager@usa.co
+77863fe5-d675-4bf7-8fe3-0c9a53710f57,20-01-2024,Canada,Quebec,Sheri Burnett,Laptop,Electronics,59,192.13,11335.67,0.16,9521.96,45.46,5193.28,4328.68,99208.29,9846.9,manager@canada.co
+f689a4a5-ffda-4336-8c6e-90373020da5c,02-02-2024,Canada,Alberta,Bianca Smith,Butter,Food,87,458.94,39927.78,0.1,35935,35.05,23340.94,12594.06,64905.26,7030.61,manager@canada.co
+50f0fc2b-6ae0-4d52-adb3-28cbf3158c0c,02-01-2024,Canada,Quebec,Mitchell Smith,Tablet,Electronics,91,481.47,43813.77,0.27,31984.05,25.46,23842.05,8142,32482.78,2335.3,manager@canada.co
+9cb017c1-8741-4e91-acfe-bb4bd29e8693,07-02-2024,UK,Scotland,Lee Gonzalez,Cheese,Food,92,354.65,32627.8,0.14,28059.91,26,20763.88,7296.03,66156.95,9239.63,manager@uk.co
+fa7ff8bf-b044-484a-87ac-f2f64d6b234f,11-03-2024,USA,Midwest,Scott Sanders,Chair,Furniture,39,12.57,490.23,0.25,367.67,40.08,220.3,147.37,41248.3,2339.38,manager@usa.co
+e9f41cc0-4653-4560-8597-aab614d30dbc,24-06-2024,Germany,Baden-Württemberg,Ashley Scott,Comics,Books,68,253.7,17251.6,0.17,14318.83,29.64,10074.32,4244.51,86357.7,7820.62,manager@germany.co
+a699bae0-d138-4150-8557-716aa7502a81,14-05-2024,USA,West,Christopher York,Desk,Furniture,69,451.06,31123.14,0.13,27077.13,20.82,21438.71,5638.42,89184.44,9750.1,manager@usa.co
+ae55cdff-34ab-48fd-8a68-e88e0ad40415,10-04-2024,Australia,Victoria,Theresa Mays,Smartphone,Electronics,95,95.07,9031.65,0.15,7676.9,42.37,4424.49,3252.41,34593.46,8738.95,manager@australia.co
+d8ab0b30-0ac0-4f0d-9974-c146e8ec01b3,11-07-2024,UK,Northern Ireland,Stephanie Bowman,Butter,Food,8,86.08,688.64,0.28,495.82,42.83,283.45,212.37,81061.55,4006.22,manager@uk.co
+2da44da1-89b5-4368-9f14-c6125f58d5b5,21-03-2024,USA,West,Eddie Taylor,Milk,Food,63,445.53,28068.39,0.18,23016.08,47.55,12071.61,10944.47,78908.75,8292.6,manager@usa.co
+ca24be4d-5667-4017-955a-40854578bab3,22-05-2024,UK,Northern Ireland,Gina Oliver,Headphones,Electronics,50,232.15,11607.5,0.03,11259.27,26.66,8258.05,3001.22,31415.97,6384.7,manager@uk.co
+2640211e-29f2-43c7-8505-f4f60a8c46c7,14-08-2024,Canada,British Columbia,James Kelley,Tablet,Electronics,25,194.79,4869.75,0.23,3749.71,35.29,2426.42,1323.29,91689.36,6491.08,manager@canada.co
+bb0378eb-7a62-422e-9d69-d9fc4b1cb8bd,03-04-2024,Germany,Baden-Württemberg,Elizabeth Vincent,Tablet,Electronics,17,479.44,8150.48,0.12,7172.42,41.19,4218.39,2954.03,82204.89,9617.92,manager@germany.co
+673617d9-4d7b-4307-9224-11e6ba8982dd,07-05-2024,USA,Midwest,Brian Hoffman,Headphones,Electronics,57,188.93,10769.01,0.06,10122.87,39.3,6144.24,3978.63,74240.94,9608.48,manager@usa.co
+d741d609-564a-4909-b958-5e697b2e1b82,13-05-2024,USA,West,Brian Jimenez,T-shirt,Clothing,67,334.92,22439.64,0.17,18624.9,43.52,10519.23,8105.67,36543.34,8374.55,manager@usa.co
+bc18a40b-55c7-4d9d-8d49-85dc09aedbd0,01-03-2024,Australia,Western Australia,Lori Bennett,Magazine,Books,15,77.12,1156.8,0.27,844.46,37.34,529.15,315.31,35882.24,1942.88,manager@australia.co
+16408169-a38d-4afc-bdd2-ed7af97ccc57,26-01-2024,USA,Northeast,Christina Walker,Milk,Food,94,477.5,44885,0.24,34112.6,37.07,21467.94,12644.66,59191.37,5469.62,manager@usa.co
+64d09913-191b-4adf-8202-861c62830869,04-08-2024,UK,Wales,Joan Burns,Tablet,Electronics,10,65.08,650.8,0.21,514.13,39.64,310.35,203.78,42453.54,8472.43,manager@uk.co
+379deda1-ade6-45e9-b6e3-55f695bb440d,13-06-2024,Canada,British Columbia,Daniel Duarte,Laptop,Electronics,27,6.6,178.2,0.2,142.56,28.04,102.59,39.97,93063.28,7731.79,manager@canada.co
+6e648043-2aa5-4f4e-86f0-093395d18051,15-03-2024,UK,Wales,Austin Boyer,Laptop,Electronics,19,97.56,1853.64,0.03,1798.03,39.67,1084.81,713.22,97142.01,2171.42,manager@uk.co
+869bdbd2-e72b-45b7-8712-0911b3b68b57,24-06-2024,Canada,British Columbia,Christina Crawford,Shoes,Clothing,38,151.69,5764.22,0.26,4265.52,33.4,2840.67,1424.85,52888.89,6337.17,manager@canada.co
+0ac728b4-a418-45bf-b50d-278d41a8a6e1,24-03-2024,USA,Northeast,Ashley Ellis,Magazine,Books,21,191.41,4019.61,0.04,3858.83,46.24,2074.39,1784.44,45597.22,5574.99,manager@usa.co
+26bdd974-d3b5-44b0-8be0-4c3e5c949381,10-02-2024,Canada,Quebec,Victoria Hernandez MD,Jacket,Clothing,54,333.28,17997.12,0.26,13317.87,31.96,9060.98,4256.89,57566.08,7319.53,manager@canada.co
+856f3d95-e0ae-4a1b-ac59-6216ae0fdbc8,11-07-2024,Canada,Alberta,Stacy Bass,Shoes,Clothing,95,463.57,44039.15,0.18,36112.1,41.06,21284.78,14827.32,54819.49,3232.53,manager@canada.co
+ab899605-a293-4b3b-bfa7-4d8aff88ec82,19-03-2024,UK,England,Tara Smith,Butter,Food,2,211.53,423.06,0.22,329.99,40.38,196.74,133.25,44279.32,3639.8,manager@uk.co
+e6256403-bf3d-40bb-b66a-c168b4a1ca79,03-05-2024,Germany,Bavaria,Amanda Hernandez,Chair,Furniture,36,60.52,2178.72,0.18,1786.55,45.38,975.75,810.8,79181.87,9354.41,manager@germany.co
+27e969e2-c8bf-43fb-9a43-1f7a41c30359,27-05-2024,Canada,Alberta,Michelle Roman,Milk,Food,32,479.97,15359.04,0.1,13823.14,34.3,9081.87,4741.27,54875.72,6683.65,manager@canada.co
+843b2a7d-15ab-4c21-8cc9-3ff710fce97d,16-01-2024,USA,West,Carlos Turner,Desk,Furniture,1,415.94,415.94,0.13,361.87,36.14,231.09,130.78,45311.39,2030.12,manager@usa.co
+54a1d505-72d6-4c20-980d-6a1cc2472fd6,03-03-2024,UK,Scotland,Sheila Murray,Butter,Food,12,340.7,4088.4,0.23,3148.07,43.03,1793.48,1354.59,83339.65,3520.8,manager@uk.co
+e6addd9e-61d9-4e39-8147-a8f45f0ef320,24-07-2024,USA,Northeast,Laura Gregory,T-shirt,Clothing,1,132.01,132.01,0.16,110.89,32.55,74.79,36.1,57736.45,1918.29,manager@usa.co
+99a2ecb1-c202-487b-849b-8a44ce1bb02a,30-01-2024,UK,Wales,Susan Harris,Jeans,Clothing,77,47.2,3634.4,0.02,3561.71,42.13,2061.33,1500.38,67354.71,2063.66,manager@uk.co
+6af79ad2-993e-48c6-a6b1-06e289110af0,06-07-2024,Canada,Quebec,Valerie Lawson,Headphones,Electronics,38,144.96,5508.48,0.04,5288.14,34.31,3473.87,1814.27,44719.48,1947.76,manager@canada.co
+cc4da021-dd62-4222-99ef-e28b3bcb50b3,08-01-2024,Australia,Western Australia,April White,Jacket,Clothing,57,189.04,10775.28,0.19,8727.98,45.29,4775.26,3952.72,78792.24,4432.85,manager@australia.co
+552ae5ca-4124-405b-91fc-fe8881c16e98,26-01-2024,Australia,Western Australia,Dennis Bryan DDS,Desk,Furniture,46,317.9,14623.4,0.22,11406.25,43.46,6449.13,4957.12,64220.07,5514.1,manager@australia.co
+0ff030b8-6238-40a0-8f5e-9ea362584ab3,04-03-2024,Germany,Bavaria,Bethany Mitchell,Cheese,Food,19,373.88,7103.72,0.02,6961.65,31.37,4778.08,2183.57,31788.28,5243.76,manager@germany.co
+f11ddff7-0e37-4526-9582-a3bdd476fe38,14-01-2024,USA,Northeast,Mr. Steve Guzman,Headphones,Electronics,1,183.83,183.83,0.03,178.32,49.89,89.36,88.96,48922.94,6763.36,manager@usa.co
+26c06e67-b2dd-4481-ac6d-5df814e5064c,17-05-2024,UK,Scotland,Logan Hughes,Desk,Furniture,25,57.2,1430,0.14,1229.8,40.09,736.72,493.08,41777.88,4795.39,manager@uk.co
+c734bb05-788c-41f6-99fa-a06e0c0a5967,28-02-2024,Germany,North Rhine-Westphalia,Kyle Anderson,Milk,Food,68,161.46,10979.28,0.06,10320.52,44.4,5738.7,4581.82,54441.7,9851.36,manager@germany.co
+8c94af98-b338-4c3e-9af4-787f52ebdac5,14-05-2024,Germany,Hesse,Richard Waters,Milk,Food,26,222.44,5783.44,0.06,5436.43,28.7,3876.17,1560.26,93407.55,1299.51,manager@germany.co
+9c30ceaa-0f66-432d-a19b-58371c6a4b5e,30-06-2024,USA,Midwest,Taylor Santos,T-shirt,Clothing,96,320.85,30801.6,0.05,29261.52,31.68,19992.46,9269.06,72875.47,7344.31,manager@usa.co
+9f3dd894-b6af-48b2-aeba-42d0f8303249,25-04-2024,Australia,Queensland,Bethany Buck,Shoes,Clothing,59,31.7,1870.3,0.21,1477.54,30.03,1033.82,443.72,75395.86,5924.63,manager@australia.co
+beebb4ea-eab9-421b-8b36-b545cca1a034,17-02-2024,Germany,Hesse,Rachel Lopez,Cheese,Food,91,240.45,21880.95,0.1,19692.85,48.73,10095.94,9596.91,33678.73,4148.22,manager@germany.co
+5f1ff97c-71cf-4814-a45b-d776c838a145,14-03-2024,UK,England,Richard Jones,Chair,Furniture,55,341.85,18801.75,0.29,13349.24,38.1,8262.57,5086.67,94497.43,5083.34,manager@uk.co
+0a3c2c6f-ef2d-4a38-a6e4-b8df0b6d9611,07-07-2024,UK,England,Alexander Meyer,Novel,Books,41,164.85,6758.85,0.14,5812.61,40.25,3473.28,2339.33,32018.04,1399.17,manager@uk.co
+374a6cc9-e039-4e67-9261-46de91bacf80,30-03-2024,UK,England,Robert Oneal,Desk,Furniture,25,419.46,10486.5,0.08,9647.58,28.13,6933.79,2713.79,51092.49,5652.1,manager@uk.co
+8611f583-b2d1-4e3d-809e-2109c7867a38,12-06-2024,Germany,Baden-Württemberg,Theresa Thomas,Cheese,Food,92,123.78,11387.76,0.09,10362.86,33.44,6897.44,3465.42,30644.59,5457.7,manager@germany.co
+ec41e6f6-6c0b-455c-90e6-39e1e44fc3a9,02-02-2024,Germany,Bavaria,Jennifer Garcia,Butter,Food,59,222.85,13148.15,0.03,12753.71,42.77,7299.5,5454.21,87838.55,2384.16,manager@germany.co
+f45da406-bbf9-4b01-a7f9-e728c618fc1e,12-01-2024,Canada,Alberta,Jessica Butler,Novel,Books,55,281.71,15494.05,0.27,11310.66,38.17,6993.85,4316.81,97124.14,3247.55,manager@canada.co
+f655860b-dd32-4231-ab56-16997f22cd12,06-05-2024,Canada,Quebec,Angela Jones,Jacket,Clothing,41,497.36,20391.76,0.03,19780.01,23.01,15228.39,4551.62,72705.74,8101.34,manager@canada.co
+586f1721-0785-48d7-b118-2d235bf80676,15-05-2024,UK,Northern Ireland,Ronald Hall,Comics,Books,69,319.01,22011.69,0.08,20250.75,49.5,10225.97,10024.78,73041.02,7407.16,manager@uk.co
+e4b82987-98ba-4f0e-920d-71265da53b38,25-02-2024,Canada,Alberta,Daniel Nunez,Table,Furniture,37,440.5,16298.5,0.3,11408.95,49.81,5726.51,5682.44,67486.69,4854.43,manager@canada.co
+bf7b68ae-1f89-41b6-a6a1-a40bf031f4b9,03-01-2024,USA,Northeast,Michael Cantu,Cheese,Food,16,485.72,7771.52,0.17,6450.36,43.11,3669.41,2780.95,80158.45,5919.74,manager@usa.co
+2fdeb035-2452-4c39-9bf2-eed13b9cea95,25-06-2024,UK,Scotland,Gregory Haley,Chair,Furniture,67,157.22,10533.74,0.1,9480.37,38.8,5801.6,3678.77,63618.88,6238.54,manager@uk.co
+35475c5e-f76d-4e6e-8726-d44a215203c7,20-05-2024,Canada,Ontario,Tyler Phillips,Magazine,Books,47,294.79,13855.13,0.01,13716.58,46.11,7392.51,6324.07,57690.66,9781.81,manager@canada.co
+a2cb5f38-8d9e-4fb9-b549-2e22e0df7f74,06-05-2024,Australia,New South Wales,Willie Garcia,Table,Furniture,100,250.89,25089,0.23,19318.53,20.92,15276.94,4041.59,46472.11,2189.16,manager@australia.co
+606821d6-280a-47ee-8ec9-85ff94b28b9d,27-02-2024,Canada,Alberta,Regina Stewart,Jeans,Clothing,81,251.74,20390.94,0.28,14681.48,31.52,10053.95,4627.53,31821.01,6365.13,manager@canada.co
+2f16fb50-c13e-46af-bc95-90d33e2aad3e,23-04-2024,Germany,Hesse,Matthew Callahan,T-shirt,Clothing,29,279.98,8119.42,0.05,7713.45,23.63,5890.94,1822.51,86646.56,7636.34,manager@germany.co
+13f2a37c-64d0-4759-8542-bd7599e8c828,29-01-2024,Australia,Queensland,Edwin Butler,Tablet,Electronics,18,304.13,5474.34,0.21,4324.73,25.35,3228.45,1096.28,84975.81,4456.83,manager@australia.co
+6c148fc6-9750-4a7e-a46c-b09ced28508d,25-04-2024,USA,Midwest,Angela Wallace,Tablet,Electronics,93,374.8,34856.4,0.07,32416.45,24.11,24600.48,7815.97,76790.29,6937.93,manager@usa.co
+877a2133-f2ed-43e1-a315-59405e87905a,23-01-2024,Canada,British Columbia,Adam Hayden,Jeans,Clothing,40,13.4,536,0.17,444.88,48.25,230.21,214.67,74130.65,4180.78,manager@canada.co
+3438b4e4-70f8-4d99-9217-7eb7e6b920da,24-05-2024,Germany,Bavaria,John Clements,Laptop,Electronics,6,11.16,66.96,0.28,48.21,40.2,28.83,19.38,87466.98,4104.36,manager@germany.co
+1cb66f67-46e7-45ad-9bce-35d8cbe88a3f,04-08-2024,Germany,North Rhine-Westphalia,Brittany Park,Cabinet,Furniture,56,75.32,4217.92,0.09,3838.31,30.53,2666.56,1171.75,80964.5,8067.55,manager@germany.co
