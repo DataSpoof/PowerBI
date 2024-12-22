@@ -1,0 +1,101 @@
+Task Name,Start Date,End Date,Assigned To,Status,Points
+Bug Fixing,10-04-2024,27-04-2024,Jane Smith,In Progress,133
+Final Review,25-12-2023,03-01-2024,Alice Johnson,Not Started,21
+Bug Fixing,01-12-2023,09-12-2023,John Doe,Not Started,29
+Testing,08-12-2023,07-01-2024,John Doe,Not Started,15
+User Training,29-03-2024,19-04-2024,Alice Johnson,Completed,212
+UI/UX Design,05-11-2023,01-12-2023,Jane Smith,Completed,311
+Final Review,28-12-2023,30-12-2023,Jane Smith,In Progress,131
+Testing,22-10-2023,07-11-2023,Bob Lee,Not Started,15
+User Training,19-01-2024,22-01-2024,John Doe,In Progress,109
+Final Review,30-05-2024,23-06-2024,Jane Smith,In Progress,142
+Integration Testing,27-11-2023,07-12-2023,Chris Martin,Completed,259
+UI/UX Design,22-12-2023,15-01-2024,Alice Johnson,Not Started,42
+Bug Fixing,15-03-2024,20-03-2024,Chris Martin,Completed,235
+Testing,20-09-2023,16-10-2023,Jane Smith,Completed,250
+Requirement Gathering,01-12-2023,07-12-2023,Jane Smith,Not Started,23
+Documentation,18-12-2023,16-01-2024,John Doe,Completed,225
+Testing,25-09-2023,22-10-2023,Jane Smith,Not Started,43
+Deployment,09-07-2024,29-07-2024,Bob Lee,Completed,235
+Deployment,09-05-2024,24-05-2024,John Doe,In Progress,135
+Requirement Gathering,07-08-2024,03-09-2024,Alice Johnson,In Progress,90
+Design Phase,29-05-2024,18-06-2024,Jane Smith,In Progress,70
+Testing,22-01-2024,31-01-2024,Chris Martin,In Progress,137
+Documentation,14-07-2024,04-08-2024,Alice Johnson,In Progress,100
+Go Live Preparation,30-08-2023,07-09-2023,Chris Martin,Completed,345
+Testing,07-08-2024,24-08-2024,Alice Johnson,In Progress,96
+Integration Testing,01-01-2024,02-01-2024,Alice Johnson,Completed,300
+Integration Testing,10-09-2023,07-10-2023,Bob Lee,Not Started,23
+Bug Fixing,16-04-2024,03-05-2024,John Doe,Completed,311
+User Training,05-06-2024,24-06-2024,Alice Johnson,In Progress,124
+Documentation,26-08-2023,06-09-2023,Jane Smith,Completed,265
+Final Review,18-08-2023,05-09-2023,Chris Martin,Completed,335
+Deployment,06-04-2024,14-04-2024,Chris Martin,Not Started,18
+Deployment,23-02-2024,07-03-2024,Bob Lee,Completed,337
+Integration Testing,09-03-2024,26-03-2024,Jane Smith,Completed,218
+Development,11-01-2024,09-02-2024,Jane Smith,In Progress,146
+Testing,28-07-2024,24-08-2024,John Doe,Completed,269
+UI/UX Design,12-01-2024,06-02-2024,Chris Martin,In Progress,149
+Integration Testing,05-01-2024,03-02-2024,Chris Martin,Completed,350
+Go Live Preparation,12-12-2023,30-12-2023,Jane Smith,Completed,349
+Design Phase,27-03-2024,10-04-2024,Alice Johnson,Not Started,16
+Final Review,15-11-2023,26-11-2023,Alice Johnson,Completed,224
+Go Live Preparation,23-06-2024,21-07-2024,Alice Johnson,In Progress,107
+Bug Fixing,05-02-2024,17-02-2024,Alice Johnson,Not Started,35
+Final Review,17-05-2024,15-06-2024,Jane Smith,Completed,224
+User Training,31-05-2024,02-06-2024,Jane Smith,Completed,222
+Go Live Preparation,16-06-2024,29-06-2024,Bob Lee,Not Started,43
+Code Review,17-07-2024,14-08-2024,Jane Smith,Not Started,24
+Bug Fixing,20-01-2024,23-01-2024,Chris Martin,Not Started,14
+Bug Fixing,25-07-2024,30-07-2024,Jane Smith,Not Started,25
+Deployment,18-04-2024,24-04-2024,Jane Smith,Not Started,14
+Integration Testing,29-10-2023,25-11-2023,Jane Smith,In Progress,93
+Bug Fixing,20-08-2023,02-09-2023,Bob Lee,Completed,316
+Design Phase,17-06-2024,21-06-2024,John Doe,Not Started,20
+Final Review,11-01-2024,23-01-2024,John Doe,Completed,206
+Documentation,24-03-2024,11-04-2024,Alice Johnson,Not Started,17
+Final Review,12-09-2023,16-09-2023,Jane Smith,In Progress,89
+UI/UX Design,24-10-2023,10-11-2023,John Doe,Not Started,37
+Integration Testing,25-08-2023,27-08-2023,John Doe,Not Started,31
+Testing,22-02-2024,19-03-2024,Bob Lee,In Progress,88
+Documentation,01-02-2024,19-02-2024,John Doe,In Progress,86
+Testing,27-12-2023,12-01-2024,Alice Johnson,Not Started,36
+Final Review,03-02-2024,25-02-2024,Alice Johnson,In Progress,100
+Development,03-03-2024,13-03-2024,Alice Johnson,In Progress,94
+Development,31-01-2024,04-02-2024,Chris Martin,Not Started,15
+Testing,20-06-2024,29-06-2024,Jane Smith,Completed,344
+UI/UX Design,09-12-2023,29-12-2023,Jane Smith,In Progress,106
+Bug Fixing,20-06-2024,25-06-2024,Bob Lee,Completed,221
+Requirement Gathering,18-04-2024,30-04-2024,Bob Lee,Completed,245
+Documentation,04-12-2023,28-12-2023,Bob Lee,Completed,344
+Development,04-04-2024,22-04-2024,Alice Johnson,Not Started,47
+Testing,23-04-2024,09-05-2024,Chris Martin,Completed,281
+Documentation,30-01-2024,09-02-2024,Jane Smith,Not Started,37
+Documentation,29-05-2024,23-06-2024,Chris Martin,Not Started,16
+Testing,28-01-2024,02-02-2024,Alice Johnson,In Progress,91
+UI/UX Design,07-08-2024,04-09-2024,Jane Smith,In Progress,92
+Integration Testing,09-06-2024,27-06-2024,Bob Lee,Not Started,50
+Testing,07-07-2024,03-08-2024,John Doe,Not Started,29
+User Training,08-09-2023,06-10-2023,Bob Lee,In Progress,122
+Final Review,18-12-2023,06-01-2024,Bob Lee,Not Started,30
+Requirement Gathering,11-02-2024,10-03-2024,Jane Smith,Completed,219
+Testing,15-10-2023,07-11-2023,Chris Martin,Completed,261
+Go Live Preparation,12-10-2023,01-11-2023,Bob Lee,Not Started,37
+Go Live Preparation,14-06-2024,20-06-2024,Chris Martin,Not Started,23
+Development,27-08-2023,03-09-2023,Jane Smith,Not Started,24
+Bug Fixing,02-01-2024,09-01-2024,John Doe,In Progress,76
+User Training,16-06-2024,14-07-2024,John Doe,Not Started,19
+Go Live Preparation,17-04-2024,20-04-2024,Jane Smith,Completed,346
+Testing,06-02-2024,26-02-2024,Chris Martin,Completed,254
+Bug Fixing,09-02-2024,20-02-2024,Alice Johnson,Completed,202
+Integration Testing,14-07-2024,18-07-2024,Alice Johnson,Completed,317
+Integration Testing,23-01-2024,04-02-2024,Jane Smith,Completed,347
+Code Review,18-07-2024,14-08-2024,Alice Johnson,Completed,311
+Bug Fixing,08-10-2023,20-10-2023,John Doe,In Progress,106
+Integration Testing,23-09-2023,07-10-2023,Alice Johnson,Completed,238
+Requirement Gathering,04-05-2024,13-05-2024,Alice Johnson,Not Started,37
+Code Review,14-05-2024,25-05-2024,Alice Johnson,In Progress,106
+UI/UX Design,27-10-2023,25-11-2023,Chris Martin,Not Started,43
+Design Phase,13-10-2023,01-11-2023,Alice Johnson,Not Started,44
+Integration Testing,16-08-2023,30-08-2023,Alice Johnson,Completed,257
+Development,17-02-2024,21-02-2024,Jane Smith,Completed,297
