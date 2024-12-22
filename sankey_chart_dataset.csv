@@ -1,0 +1,99 @@
+City,Country,Date,Profit,Region,Sales,Segment
+Los Angeles,USA,2023-10-26,5500.19,Europe,16842.96,Residential
+New York,USA,2023-02-17,5955.25,North America,10941.53,Residential
+Phoenix,USA,2023-10-07,3044.02,Asia-Pacific,14123.44,Commercial
+Sydney,Australia,2023-12-24,4663.37,North America,9723.6,Commercial
+Paris,France,2023-01-12,6274.35,North America,7825.53,Commercial
+Tokyo,Japan,2023-01-30,1518.72,Europe,15904.06,Residential
+Chicago,USA,2023-09-09,1082.95,North America,13581.46,Commercial
+New York,USA,2023-05-04,4633.5,Asia-Pacific,7670.66,Commercial
+Paris,France,2023-05-02,1203.71,North America,12357.25,Residential
+Berlin,Germany,2023-12-03,2032.9,Europe,16132.91,Residential
+Berlin,Germany,2023-09-19,6730.05,North America,12577.01,Public
+Tokyo,Japan,2023-09-16,3890.63,Europe,11521.66,Public
+Sydney,Australia,2023-04-18,2219.46,Asia-Pacific,19408.96,Residential
+Phoenix,USA,2023-12-06,6013.23,North America,10115.99,Public
+Phoenix,USA,2023-05-16,1817.56,Asia-Pacific,16183.59,Commercial
+Berlin,Germany,2023-09-05,8399.45,North America,19038.98,Commercial
+Chicago,USA,2023-09-23,8870.44,North America,5304.47,Commercial
+Phoenix,USA,2023-05-08,9025.12,Europe,12886.56,Residential
+Sydney,Australia,2023-08-01,2241.5,North America,8008.34,Commercial
+Chicago,USA,2023-12-03,5764.53,Asia-Pacific,12213.63,Commercial
+Sydney,Australia,2023-01-27,2568.88,Europe,11200.37,Residential
+Chicago,USA,2023-07-10,6366.37,Europe,12632.3,Residential
+Los Angeles,USA,2023-11-09,4993.05,Europe,9862.95,Residential
+Paris,France,2023-03-09,6079.62,Europe,6669.25,Commercial
+Phoenix,USA,2023-11-22,8440.75,North America,5341.98,Public
+Houston,USA,2023-02-12,3493.72,Asia-Pacific,7531.69,Residential
+Phoenix,USA,2023-08-23,8495.23,Asia-Pacific,8084.55,Public
+Houston,USA,2023-03-09,3999.21,Asia-Pacific,18231.03,Commercial
+Los Angeles,USA,2023-02-04,8546.16,North America,15355.2,Public
+Tokyo,Japan,2023-07-05,8742.4,North America,7389.09,Public
+Chicago,USA,2023-07-24,6428.02,North America,13593.42,Commercial
+London,UK,2023-02-10,3598.24,Asia-Pacific,14169.81,Residential
+Sydney,Australia,2023-08-10,8388.41,North America,11248.24,Commercial
+Los Angeles,USA,2023-09-13,1097.9,North America,19495.57,Public
+Sydney,Australia,2023-06-28,3688.87,Europe,10286.48,Public
+Sydney,Australia,2023-05-18,6240.71,North America,11809.05,Commercial
+Berlin,Germany,2023-05-29,2104.35,Asia-Pacific,7011.74,Commercial
+Los Angeles,USA,2023-09-23,8419.75,Europe,8338.85,Commercial
+Paris,France,2023-03-05,3824.95,Europe,7116.7,Public
+Los Angeles,USA,2023-10-03,6746.46,Asia-Pacific,15427.42,Public
+Berlin,Germany,2023-11-20,5605.24,Asia-Pacific,15734.6,Residential
+Houston,USA,2023-03-08,8773.31,Asia-Pacific,11091.55,Commercial
+Chicago,USA,2023-04-21,5458.6,Europe,7506.23,Residential
+Sydney,Australia,2023-09-24,5674.31,Europe,18337.7,Commercial
+Phoenix,USA,2023-04-06,7868.06,Asia-Pacific,16368.67,Public
+New York,USA,2023-03-09,4049.27,Asia-Pacific,13304.76,Commercial
+New York,USA,2023-08-26,3418.7,North America,17139.08,Residential
+Sydney,Australia,2023-08-26,6782.5,Asia-Pacific,9815.88,Public
+New York,USA,2023-03-02,5779.09,North America,15872.21,Public
+Phoenix,USA,2023-12-10,1902.57,North America,13141.26,Commercial
+Phoenix,USA,2023-12-28,6121.04,Europe,7152.35,Public
+Chicago,USA,2023-06-09,4157.25,North America,13756.22,Commercial
+Chicago,USA,2023-04-22,2152.64,Europe,11076.08,Public
+Sydney,Australia,2023-07-21,9307.33,North America,7482.75,Public
+London,UK,2023-08-06,2150.22,Europe,12418.87,Residential
+Berlin,Germany,2023-09-29,5008.45,Europe,14503.48,Commercial
+Phoenix,USA,2023-07-27,6246.86,Europe,19537.09,Residential
+Chicago,USA,2023-03-07,9992.89,North America,11762.48,Public
+Phoenix,USA,2023-12-30,4428.34,Asia-Pacific,5182.13,Public
+New York,USA,2023-02-17,4086.41,North America,13599.13,Residential
+Paris,France,2023-01-10,2815.68,Asia-Pacific,17973.05,Public
+Berlin,Germany,2023-10-24,6591.26,Europe,17771.76,Commercial
+Houston,USA,2023-05-03,7161.1,Europe,6690.49,Residential
+Berlin,Germany,2023-04-07,8679.2,Europe,17022.09,Commercial
+Berlin,Germany,2023-01-03,3108.76,North America,12830.74,Public
+Los Angeles,USA,2023-05-06,5294.72,Asia-Pacific,16844.51,Commercial
+Sydney,Australia,2023-06-19,8550.84,North America,10945.11,Residential
+Sydney,Australia,2023-08-23,4910.75,Asia-Pacific,15985.53,Residential
+Sydney,Australia,2023-02-02,4679.59,Europe,12052.09,Commercial
+New York,USA,2023-07-01,4843.71,Europe,6510.42,Public
+Los Angeles,USA,2023-12-31,5447.73,Asia-Pacific,17890.52,Public
+Chicago,USA,2023-09-12,3260.05,Europe,14464.24,Residential
+Chicago,USA,2023-06-15,5770.64,Europe,15669.32,Commercial
+Phoenix,USA,2023-10-26,6886.28,Europe,18856.19,Public
+London,UK,2023-09-08,3314.44,North America,19530.4,Commercial
+New York,USA,2023-08-24,4429.95,Europe,5008.29,Commercial
+Los Angeles,USA,2023-06-26,7302.34,Asia-Pacific,10159.12,Residential
+London,UK,2023-09-16,2378.48,Europe,18957.49,Commercial
+Los Angeles,USA,2023-07-03,3509.84,Europe,10138.07,Commercial
+Chicago,USA,2023-03-10,1345.58,North America,6595.65,Public
+London,UK,2023-12-19,7208.18,North America,6105.52,Public
+Chicago,USA,2023-09-26,6701.73,Asia-Pacific,15938.9,Public
+Houston,USA,2023-02-03,3988.54,Europe,13900.32,Residential
+Berlin,Germany,2023-06-30,2340.97,North America,16175.93,Residential
+Sydney,Australia,2023-10-25,7152.98,North America,5040.62,Residential
+Phoenix,USA,2023-09-11,5241.2,Europe,10034.84,Commercial
+Los Angeles,USA,2023-08-20,2935.05,Europe,14594.02,Residential
+Los Angeles,USA,2023-10-17,5362.18,Asia-Pacific,13609.83,Public
+Tokyo,Japan,2023-02-03,5288.63,Europe,17892.11,Commercial
+New York,USA,2023-10-19,2216.53,Europe,16460.86,Commercial
+Paris,France,2023-05-10,7975.87,Europe,14235.41,Commercial
+Berlin,Germany,2023-12-15,6859.38,Europe,15941.48,Public
+Houston,USA,2023-03-30,6635.19,Europe,17808.26,Public
+Paris,France,2023-08-26,7173.46,Europe,16157.07,Public
+New York,USA,2023-11-27,2933.62,North America,5207.34,Commercial
+Los Angeles,USA,2023-05-03,1796.15,Europe,15503.08,Commercial
+Tokyo,Japan,2023-03-14,7562.62,Europe,14734.7,Residential
+Los Angeles,USA,2023-01-05,5064.84,North America,11512.68,Public
