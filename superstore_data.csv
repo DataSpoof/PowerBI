@@ -1,0 +1,7 @@
+Order ID,Order Date,Customer Name,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1001,2024-09-01,Alice Johnson,East,Furniture,Chairs,Office Chair,250,2,0.1,50
+1002,2024-09-02,Bob Smith,West,Office Supplies,Binders,Ring Binder,30,5,0.0,5
+1003,2024-09-03,Charlie Lee,Central,Technology,Phones,Smartphone,500,3,0.15,75
+1004,2024-09-04,Daisy Evans,East,Technology,Accessories,USB Cable,20,10,0.05,1
+1005,2024-09-05,Eve Adams,South,Furniture,Tables,Wooden Table,150,1,0.2,30
+1006,2024-09-06,Frank Harris,West,Office Supplies,Storage,Storage Box,70,4,0.1,10
